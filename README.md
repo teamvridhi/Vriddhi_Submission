@@ -57,7 +57,7 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 ## Project roadmap
 
-![Roadmap](Future Implementation.png)
+[Roadmap](Future Implementation.png)
 
 ## Getting started
 
