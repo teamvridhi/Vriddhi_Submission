@@ -1,8 +1,8 @@
-# Atmanirbhar: Vriddhi
+# Atmanirbhar Bharat: Vriddhi
 
 [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
-This is a basic GitHub repository by Team Vriddhi, as part of Atmanirbhar Bhaart competition
+This is a basic GitHub repository by Team Vriddhi, as part of Atmanirbhar Bharat competition
 
 
 ## Contents
