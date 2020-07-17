@@ -63,24 +63,6 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
-
-What things you need to install the software and how to install them
-
-* Tableau
-* IBM DB2
-* Map Services
-
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be, for example
-
-Get tableau installed from here https://help.tableau.com/current/desktopdeploy/en-us/desktop_deploy_download_and_install.htm 
-Get access to IBM DB2 https://www.ibm.com/in-en/analytics/db2/trials 
-Map Service : Kagel Housing data
-
 ## Access the Application
 
 Click on : [Secured Steps](https://public.tableau.com/profile/hema3100#!/vizhome/WiTHackathon-SankalpTeam-SecuredSteps/Welcome?publish=yes) 
@@ -89,14 +71,15 @@ Click on : [Secured Steps](https://public.tableau.com/profile/hema3100#!/vizhome
 
 ## Built with
 
-* [IBM DB2](https://cloud.ibm.com/catalog?search=DB2#search_results)
-* [Tableau]( https://public.tableau.com/en-us/s/)
-* [Map Services](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data ) 
+* [Flutter](https://flutter.dev/)
+* [WebRTC] (https://webrtc.org/)
+* Cluod Computing
 * Custome built AI Model
 
 ## Contributors
 
-* **Athira Menon** - *Strategy & Communication*
+* **Anitha Ravishankar** - *Strategy & Communication*
 * **Hemalatha Dave** - *Conceptualization and Implimentation*
 * **Shweta Kumari** - *Conceptualization and Data Engineering*
-* **Sneha Agarwal** - *Conceptualization & Strategy*
+* **Prateek Rehlan** - *Conceptualization & Implimentation*
+* **Sumit Kumar** - *Conceptualization & Implimentation*
