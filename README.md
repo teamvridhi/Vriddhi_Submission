@@ -1,8 +1,8 @@
-# WiT CallforCode: Sankalp-SecuredSteps
+# Atmanirbhar: Vriddhi
 
 [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
-This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020, for Call for Code.
+This is a basic GitHub repository by Team Vriddhi, as part of Atmanirbhar Bhaart competition
 
 
 ## Contents
@@ -21,15 +21,23 @@ This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. However, it is difficult to follow, especially in a densely crowded city like Bangalore. This is leading to people shutting themselves at home and finding it difficult to carry out their day to day important activities like visiting a Bank or Salon etc. This is creating hindrance in restarting of economy and is leading to job losses.
-
+Access to quality education is limited in India and not every person has access to required tools and resources to pursue their dreams.
+This is more so for people who are less privileged or living in rural areas. Rural population in India is reported to be around 65.97% according to World Bank in 2018 with an annual growth rate of 0.39%.
+The current COVID crisis has further worsen the situation. Due to schools being closed, there is lack of tutoring, mentoring and study groups. Parents are not in a position or have the relevant capabilities to provide academic support. The private tutorials may not be affordable to most people from rural areas or low-income groups. Additional challenge is the lack of tutoring support in regional languages.
+Many students are deprived of good guidance and quality education which in turn is one of the key causes for the societal imbalance.
 ### How can technology help
 
-Technology can enable people to know in advance about the number of people visiting an establishment and allow them to socially distance, whilst sitting comfortably at home. It can also enable people to plan their visit in safe and secure manner.
+With the current technological advancements and on our path to digital India, bridging this gap is not anymore, a challenge. Right idea combined with right tools and resources can now connect people across the globe within a glimpse.
+Advanced mobile technology has made this possible, with reduced cost and affordability, today most of the homes have a smart phone. Estimated smart phone users in India in 2020 is 400 million. What better way to connect using this device? Given the current Covid-19 situation, the whole world has switched to a virtual landscape.
+A portable solution for an ongoing problem is what the technology will help with. With technology disruption, lot of new business models have been developed and successful. Today, one can access any kind of information from any remote location.
+An infrastructure to integrate these needs is done through the Vriddhi App.
 
 ### The Idea
 
-Team Sankalp is offering an innovative solution called SecuredSteps, which combines location and traffic data with power of Artificial Intelligence, to provide users an alert about an establishment, they would like to visit. A simple mobile app enables users to plan their visit in a secure manner and follow social distancing norms from comfort of their home.
+Develop a digital platform to provide a live connect between students, tutors, counsellors, industry leaders and a huge repository of educational materials that is open source. 
+Secure, seamless, and sustainable solution to solve the above problem that will benefit the society at large. The model to be scalable globally and cater to different economic sections of the society.  
+Aim is to also support tutoring, mentoring and library of education materials in regional languages, all in one platform. 
+
 
 ## Demo Video
 
