@@ -76,7 +76,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Access the Application
 
-Click on : [Vriddhi](https://github.com/prateekralhan/flutter_apps/tree/master/flutter_app) 
+Click on :
+Main App - underdevelopment - [Vriddhi](https://github.com/prateekralhan/flutter_apps/tree/master/flutter_app) 
+Wireframe - [Vriddhi WireFrame](https://studio.code.org/projects/applab/33V6Be9slUCl96Y1kC-sFBn4zEYiUdH0GVSmQC3mrLY)
 
 
 ## Built with
