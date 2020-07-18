@@ -54,7 +54,7 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 ## Long description
 
-[More detail is available here](https://github.com/teamvridhi/Vriddhi_Submission/raw/master/Vriddhi Concept.pdf)
+[More detail is available here](https://github.com/teamvridhi/Vriddhi_Submission/blob/master/Vriddhi%20Concept.pdf)
 
 ## Project roadmap
 
