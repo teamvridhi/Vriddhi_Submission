@@ -48,9 +48,9 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 1. The user installs the site via playstore/app store.
 2. Logs in via phone number/email
-3. Provides his/her location and searches for nearby services
-4. AI skills provides hotspots warnings for services selected. Additionally, app provides alternative locations for the services.
-5. More people download/use the app, more AI skills the app gains, and better is the recommendations.
+3. Selects his/her profile type and services required
+4. Vriddhi app connets users to large varitity of resources available on platform
+5. More people come on platform the better resource avaiability 
 
 ## Long description
 
