@@ -66,14 +66,13 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## Access the Application
 
-Click on : [Secured Steps](https://public.tableau.com/profile/hema3100#!/vizhome/WiTHackathon-SankalpTeam-SecuredSteps/Welcome?publish=yes) 
-
+Click on : [Vriddhi](https://github.com/prateekralhan/flutter_apps/tree/master/flutter_app) 
 
 
 ## Built with
 
 * [Flutter](https://flutter.dev/)
-* [WebRTC] (https://webrtc.org/)
+* WebRTC (https://webrtc.org/)
 * Cluod Computing
 * Custome built AI Model
 
