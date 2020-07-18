@@ -40,7 +40,7 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 ## Demo Video
 
-[![Watch the video](SecuredSteps.png)](https://www.youtube.com/watch?v=W6Fa_aaWRTk)
+[![Watch the video](Vriddhi.png)](https://www.youtube.com/watch?v=r7qWhgo718I&rel=0&utm_source=broadcast&utm_medium=email&utm_campaign=Transactional-Publish-success)
 
 ## The architecture
 
