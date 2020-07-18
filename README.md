@@ -46,11 +46,12 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 ![Architechture](vriddhiArchitecture.jpg)
 
-1. The user installs the site via playstore/app store.
+1. The user installs the site via play store/app store.
 2. Logs in via phone number/email
 3. Selects his/her profile type and services required
-4. Vriddhi app connets users to large varitity of resources available on platform
-5. More people on the platform, better the resource avaiability 
+4. Vriddhi app connects users to large variety of resources available on platform
+5. More people on the platform, better the resource availability
+ 
 
 ## Long description
 
@@ -84,11 +85,14 @@ Click on : [Vriddhi](https://github.com/prateekralhan/flutter_apps/tree/master/f
 * WebRTC (https://webrtc.org/)
 * Cluod Computing
 * Custome built AI Model
+* Video using powtoon
+* Wireframe credit to code.org
 
 ## Contributors
 
 * **Anitha Ravishankar** - *Strategy & Communication*
-* **Hemalatha Dave** - *Conceptualization and Implimentation*
+* **Hemalatha Dave** - *Conceptualization and Implementation*
 * **Shweta Kumari** - *Conceptualization and Data Engineering*
-* **Prateek Rehlan** - *Conceptualization & Implimentation*
-* **Sumit Kumar** - *Conceptualization & Implimentation*
+* **Prateek Rehlan** - *Conceptualization & Implementation*
+* **Sumit Kumar** - *Conceptualization & Implementation*
+
