@@ -40,7 +40,7 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 ## Demo Video
 
-[![Watch the video](Vriddhi.png)](https://www.youtube.com/watch?v=r7qWhgo718I&rel=0&utm_source=broadcast&utm_medium=email&utm_campaign=Transactional-Publish-success)
+[![Watch the video](Untitled-5 (1).jpg)](https://www.youtube.com/watch?v=r7qWhgo718I&rel=0&utm_source=broadcast&utm_medium=email&utm_campaign=Transactional-Publish-success)
 
 ## The architecture
 
