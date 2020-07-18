@@ -23,6 +23,7 @@ Access to quality education is limited in India and not every person has access 
 This is more so for people who are less privileged or living in rural areas. Rural population in India is reported to be around 65.97% according to World Bank in 2018 with an annual growth rate of 0.39%.
 The current COVID crisis has further worsen the situation. Due to schools being closed, there is lack of tutoring, mentoring and study groups. Parents are not in a position or have the relevant capabilities to provide academic support. The private tutorials may not be affordable to most people from rural areas or low-income groups. Additional challenge is the lack of tutoring support in regional languages.
 Many students are deprived of good guidance and quality education which in turn is one of the key causes for the societal imbalance.
+
 ### How can technology help
 
 With the current technological advancements and on our path to digital India, bridging this gap is not anymore, a challenge. Right idea combined with right tools and resources can now connect people across the globe within a glimpse.
@@ -43,7 +44,7 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 ## The architecture
 
-![Architechture](Architechture.png)
+![Architechture](VriddhiFutureImplementation.png)
 
 1. The user installs the site via playstore/app store.
 2. Logs in via phone number/email
