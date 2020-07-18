@@ -56,6 +56,15 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 [More detail is available here](https://github.com/teamvridhi/Vriddhi_Submission/blob/master/Vriddhi%20Concept.pdf)
 
+Vriddhi provides a platform for young minds to access learning anytime, anywhere at their convenience and varied choices of topics or areas of interest. Our goal is to build a community of students, tutors, counselors from different sections of society and walk of life, irrespective of the kind of education they are currently receiving or the curriculum they are following. 
+What differentiates Vriddhi from other learning apps is that it offers live sessions free of cost ; over and above the learning support, it provides career guidance and learning materials in a digitized one stop solution platform. Vriddhi will also enable students to form live study groups and learn from each other.
+The tutors can be any individuals who has the passion to teach and share knowledge. Professionals to corporates or from any other individual can contribute in developing an informed and educated society. 
+Students from remote places/ lower income groups may not have the access and the right exposure to various career options available. Connecting them to professional counsellors and other professionals from various industries and walks of life would help them make informed decisions about their career to facilitate a coherent educational trajectory.   
+Apart from learning and career guidance, Vriddhi provides a library of study materials, relevant links and FAQs for easy reference. 
+Vriddhi will also enable students to form study groups with similar learning path and interest areas.
+
+
+
 ## Project roadmap
 
 ![Roadmap](https://github.com/teamvridhi/Vriddhi_Submission/raw/master/VriddhiFutureImplementation.jpg)
