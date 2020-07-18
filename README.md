@@ -50,7 +50,7 @@ Aim is to also support tutoring, mentoring and library of education materials in
 2. Logs in via phone number/email
 3. Selects his/her profile type and services required
 4. Vriddhi app connets users to large varitity of resources available on platform
-5. More people come on platform the better resource avaiability 
+5. More people on the platform, better the resource avaiability 
 
 ## Long description
 
