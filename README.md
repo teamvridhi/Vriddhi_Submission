@@ -58,7 +58,7 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 ## Project roadmap
 
-[Roadmap](Future Implementation.png)
+![Roadmap](https://github.com/teamvridhi/Vriddhi_Submission/raw/master/VriddhiFutureImplementation.jpg)
 
 ## Getting started
 
