@@ -44,7 +44,7 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 ## The architecture
 
-![Architechture](VriddhiFutureImplementation.png)
+![Architechture](vriddhiArchitecture.jpg)
 
 1. The user installs the site via playstore/app store.
 2. Logs in via phone number/email
