@@ -28,7 +28,7 @@ This is more so for people who are less privileged or living in rural areas. Rur
 The current COVID crisis has further worsen the situation. Due to schools being closed, there is lack of tutoring, mentoring and study groups. Parents are not in a position or have the relevant capabilities to provide academic support. The private tutorials may not be affordable to most people from rural areas or low-income groups. Additional challenge is the lack of tutoring support in regional languages.
 Many students are deprived of good guidance and quality education which in turn is one of the key causes for the societal imbalance.
 
-### How can technology help
+### How can technology help ?
 
 With the current technological advancements and on our path to digital India, bridging this gap is not anymore, a challenge. Right idea combined with right tools and resources can now connect people across the globe within a glimpse.
 Advanced mobile technology has made this possible, with reduced cost and affordability, today most of the homes have a smart phone. Estimated smart phone users in India in 2020 is 400 million. What better way to connect using this device? Given the current Covid-19 situation, the whole world has switched to a virtual landscape.
