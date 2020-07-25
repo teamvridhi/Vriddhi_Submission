@@ -44,7 +44,7 @@ Aim is to also support tutoring, mentoring and library of education materials in
 
 ## Demo Video
 
-[![Watch the video](vriddhilogo.jpg)](https://www.youtube.com/watch?v=r7qWhgo718I&rel=0&utm_source=broadcast&utm_medium=email&utm_campaign=Transactional-Publish-success)
+[![Watch the video](vriddhilogo.jpg)](https://www.youtube.com/watch?v=r7qWhgo718I)
 
 ## The architecture
 
